@@ -14,6 +14,14 @@ export default function Index() {
       <ul>
         <li>
           <a
+            href="./contact/1"
+            rel="noreferrer"
+          >
+            Contact 1
+          </a>
+        </li>
+        <li>
+          <a
             target="_blank"
             href="https://remix.run/future/spa-mode"
             rel="noreferrer"
