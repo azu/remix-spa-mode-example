@@ -33,6 +33,9 @@ export default function Contact() {
                 </label>
                 <button type="submit">Send</button>
             </Form>
+            <p>
+                Back to <a href="/">Home</a>
+            </p>
         </div>
     );
 }
